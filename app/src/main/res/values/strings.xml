@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hinh Nen</string>
+    <string name="contentDescription">TODO</string>
+    <string name="close">Close</string>
+    <string name="small">320 x 320</string>
+    <string name="medium">640 x 640</string>
+    <string name="large">960 x 960</string>
+</resources>
